@@ -9,25 +9,25 @@ I build experimental systems where complexity emerges from simple rules — usin
 
 ### 🔁 Evolving Cellular Automata — Rule-Based Evolution
 
-<img src="https://github.com/xcontcom/initial-state-evolution/blob/main/screenshots/preview.png" alt="Initial State Evolution preview" />
+<img src="https://github.com/xcontcom/evolving-cellular-automata/blob/main/docs/images/19.gif" alt="Evolving Cellular Automata preview" />
 
 Genetic algorithm that evolves cellular automaton rules to maximize specific behavior (like flickering, stability, or growth).  
 
 → [evolving-cellular-automata](https://github.com/xcontcom/evolving-cellular-automata)
 
+→ [full article](https://github.com/xcontcom/evolving-cellular-automata/blob/main/docs/article.md)
+
 ---
 
-### 🧠 Evolving Initial States — Field-Based Optimization  
+### 🧠 Evolving Initial States — Field-Based Optimization
 
-<img src="https://github.com/xcontcom/evolving-cellular-automata/blob/main/docs/images/19.gif" alt="Evolving Cellular Automata preview" />
+<img src="https://github.com/xcontcom/initial-state-evolution/blob/main/screenshots/preview.png" alt="Initial State Evolution preview" />
 
 A genetic algorithm evolves the *initial field state* of a cellular automaton while keeping the rules fixed.  
 The goal: observe what kinds of behavior or structures can *emerge* from a Turing-complete substrate.  
 It’s a search for dynamics, complexity, or stability — without touching the rules themselves.
 
 → [initial-state-evolution](https://github.com/xcontcom/initial-state-evolution)
-
-→ [full article](https://github.com/xcontcom/evolving-cellular-automata/blob/main/docs/article.md)
 
 ---
 
