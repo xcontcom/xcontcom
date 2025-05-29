@@ -15,6 +15,8 @@ Genetic algorithm that evolves cellular automaton rules to maximize specific beh
 
 → [evolving-cellular-automata](https://github.com/xcontcom/evolving-cellular-automata)
 
+---
+
 ### 🧠 Evolving Initial States — Field-Based Optimization  
 
 <img src="https://github.com/xcontcom/evolving-cellular-automata/blob/main/docs/images/19.gif" alt="Evolving Cellular Automata preview" />
@@ -26,6 +28,8 @@ It’s a search for dynamics, complexity, or stability — without touching the 
 → [initial-state-evolution](https://github.com/xcontcom/initial-state-evolution)
 
 → [full article](https://github.com/xcontcom/evolving-cellular-automata/blob/main/docs/article.md)
+
+---
 
 ### 🧩 Recursive Fractal Generator + GA
 
