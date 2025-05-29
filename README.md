@@ -40,7 +40,6 @@ Focus: visual symmetry, self-similarity, and how simple logic creates structured
 ## ⚙️ Tech Stack
 
 `JavaScript` · `Node.js` · `Canvas` · `HTML`  
-Also: GitHub Pages, JSON data structures, manual SVG embedding  
 Comfortable with `C++`, `Python`, `Arduino`, and some lower-level stuff if needed.
 
 ---
