@@ -9,7 +9,7 @@ I build experimental systems where complexity emerges from simple rules — usin
 
 ### 🔁 Evolving Cellular Automata — Rule-Based Evolution
 
-<img src="https://github.com/xcontcom/initial-state-evolution/blob/main/screenshots/preview.png" width="400" alt="Initial State Evolution preview" />
+<img src="https://github.com/xcontcom/initial-state-evolution/blob/main/screenshots/preview.png" alt="Initial State Evolution preview" />
 
 Genetic algorithm that evolves cellular automaton rules to maximize specific behavior (like flickering, stability, or growth).  
 
@@ -17,7 +17,7 @@ Genetic algorithm that evolves cellular automaton rules to maximize specific beh
 
 ### 🧠 Evolving Initial States — Field-Based Optimization  
 
-<img src="https://github.com/xcontcom/evolving-cellular-automata/blob/main/docs/images/19.gif" width="400" alt="Evolving Cellular Automata preview" />
+<img src="https://github.com/xcontcom/evolving-cellular-automata/blob/main/docs/images/19.gif" alt="Evolving Cellular Automata preview" />
 
 A genetic algorithm evolves the *initial field state* of a cellular automaton while keeping the rules fixed.  
 The goal: observe what kinds of behavior or structures can *emerge* from a Turing-complete substrate.  
@@ -29,7 +29,7 @@ It’s a search for dynamics, complexity, or stability — without touching the 
 
 ### 🧩 Recursive Fractal Generator + GA
 
-<img src="https://github.com/xcontcom/fractals/blob/master/screenshots/demo.gif" width="400" alt="Fractal Generator preview" />
+<img src="https://github.com/xcontcom/fractals/blob/master/screenshots/demo.gif" alt="Fractal Generator preview" />
 
 Fractal patterns generated via recursive substitution, then evolved using a genetic algorithm.  
 Focus: visual symmetry, self-similarity, and how simple logic creates structured complexity.
