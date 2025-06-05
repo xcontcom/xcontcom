@@ -44,6 +44,22 @@ Focus: visual symmetry, self-similarity, and how simple logic creates structured
 
 ---
 
+### 🌀 Fractogenesis: CA vs Conv
+
+<img src="https://github.com/xcontcom/fractogenesis/blob/main/images/2dconv5.png" alt="Fractogenesis preview" width="400" />
+
+Fractals from a single point — grown using either cellular automata or convolution kernels.
+This project explores 6 minimal systems that all follow the same basic idea:
+Start with a tiny seed, apply a deterministic transformation, pad or copy, repeat. Fractals emerge.
+
+But here’s the twist — CNNs (convolutional neural nets) do the same. They copy, convolve, repeat.
+So what happens when we apply the same kernel over each iteration? You get... fractals.
+Turns out, when a neural net "draws a cat", it draws a fractal that looks like a cat.
+
+→ [fractogenesis](https://github.com/xcontcom/fractogenesis)
+
+---
+
 ## 🧠 Interests
 
 - Emergence, recursion, and transformation
