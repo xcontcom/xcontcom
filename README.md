@@ -75,6 +75,16 @@ though it diverges from convolution by applying no local aggregation — only re
 
 ---
 
+### 🎼 Perfect Shuffle Music Composer
+
+<img src="https://github.com/xcontcom/perfect-shuffle-music/blob/main/public/piano.png" alt="Perfect Shuffle Fractals preview" width="400" />
+
+A generative MIDI tool that evolves musical patterns using deterministic shuffling and genetic algorithms. Built with Node.js + MIDI export.
+
+→ [perfect-shuffle-music](https://github.com/xcontcom/perfect-shuffle-music)
+
+---
+
 ## 🧠 Interests
 
 - Emergence, recursion, and transformation
