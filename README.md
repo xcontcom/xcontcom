@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Serhii — aka [xcont](https://xcont.com)
 
 I'm a self-taught developer working at the intersection of optimization, pattern formation, and cellular automata.  
-I build experimental systems where complexity emerges from simple rules — using code, recursion, and a bit of stubbornness.
+I build experimental systems where complexity emerges from simple rules — using code, recursion, and a bit of imagination.
 
 ---
 
