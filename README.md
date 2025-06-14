@@ -70,7 +70,8 @@ This deterministic process reveals deep structural symmetries in both binary and
 The method echoes spatial structure-modification routines found in convolutional architectures (e.g., padding and upsampling),  
 though it diverges from convolution by applying no local aggregation — only recursive, deterministic reordering.
 
-→ [perfect-shuffle](https://github.com/xcontcom/perfect-shuffle)  
+→ [perfect-shuffle](https://github.com/xcontcom/perfect-shuffle)
+
 → [full article](https://github.com/xcontcom/perfect-shuffle/blob/main/docs/article.md)
 
 ---
@@ -82,6 +83,18 @@ though it diverges from convolution by applying no local aggregation — only re
 A generative MIDI tool that evolves musical patterns using deterministic shuffling and genetic algorithms. Built with Node.js + MIDI export.
 
 → [perfect-shuffle-music](https://github.com/xcontcom/perfect-shuffle-music)
+
+---
+
+## 🔷 The Billiard Fractals
+
+<img src="https://github.com/xcontcom/billiard-fractals/blob/main/docs/images/0.png" alt="The Billiard Fractals preview" width="400" />
+
+Exploring fractals generated from symbolic billiards, irrational discretization, and curved surface slicing. A bridge between number theory and emergent geometry.
+
+→ [billiard-fractals](https://github.com/xcontcom/billiard-fractals)
+
+→ [full article](https://github.com/xcontcom/billiard-fractals/blob/main/docs/article.md)
 
 ---
 
