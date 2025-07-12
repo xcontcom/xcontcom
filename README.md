@@ -31,6 +31,18 @@ It’s a search for dynamics, complexity, or stability — without touching the 
 
 ---
 
+## 🔷 The Billiard Fractals
+
+<img src="https://github.com/xcontcom/billiard-fractals/blob/main/docs/images/0.png" alt="The Billiard Fractals preview" width="400" />
+
+Exploring fractals generated from symbolic billiards, irrational discretization, and curved surface slicing. A bridge between number theory and emergent geometry.
+
+→ [billiard-fractals](https://github.com/xcontcom/billiard-fractals)
+
+→ [full article](https://github.com/xcontcom/billiard-fractals/blob/main/docs/article.md)
+
+---
+
 ### 🧩 Recursive Fractal Generator + GA
 
 <img src="https://github.com/xcontcom/fractals/blob/master/screenshots/demo.gif" alt="Fractal Generator preview" />
@@ -86,15 +98,48 @@ A generative MIDI tool that evolves musical patterns using deterministic shuffli
 
 ---
 
-## 🔷 The Billiard Fractals
+### 🤖 NeuroParticles — Artificial Life with Evolving Agents
 
-<img src="https://github.com/xcontcom/billiard-fractals/blob/main/docs/images/0.png" alt="The Billiard Fractals preview" width="400" />
+<img src="https://github.com/xcontcom/neuroparticles/blob/main/images/11x11.gif" alt="NeuroParticles preview" width="400" />
 
-Exploring fractals generated from symbolic billiards, irrational discretization, and curved surface slicing. A bridge between number theory and emergent geometry.
+Artificial life on a grid: each particle is controlled by a neural network.  
+They move, sense, and fight — evolving through a genetic algorithm.  
+The goal isn’t predefined — just survival, competition, and strange emergent behaviors.
 
-→ [billiard-fractals](https://github.com/xcontcom/billiard-fractals)
+→ [neuroparticles](https://github.com/xcontcom/neuroparticles)
 
-→ [full article](https://github.com/xcontcom/billiard-fractals/blob/main/docs/article.md)
+---
+
+### 🛡️ Perfect Shuffle Cryptography — Deterministic File Encryption
+
+<img src="https://github.com/xcontcom/perfect-shuffle-cryptography/blob/main/images/in.png" alt="Perfect Shuffle Cryptography preview" width="400" />
+
+A minimalist encryption scheme based on recursive, invertible spatial shuffling.  
+Pure, deterministic logic with visual twist.
+
+→ [perfect-shuffle-cryptography](https://github.com/xcontcom/perfect-shuffle-cryptography)
+
+---
+
+### 🌌 Particle Simulation — Coulomb Forces in a Toroidal World
+
+<img src="https://github.com/xcontcom/particles/raw/main/images/particles_preview.png" alt="Particle Simulation preview" width="400" />
+
+Interactive 2D particle system with electric-like forces and edge wrapping.  
+Built in JavaScript with live controls for mass, charge, and interaction strength.
+
+→ [particles](https://github.com/xcontcom/particles)
+
+---
+
+### 🌱 T-Fractal Builder — Recursive Overlay at Multiple Scales
+
+<img src="https://github.com/xcontcom/t-fractal/blob/main/images/11.png" alt="T-Fractal Builder preview" width="400" />
+
+Tiny sandbox to create layered fractals by scaling and overlaying a simple pattern.  
+Playful and deterministic — showing how recursion builds structure from almost nothing.
+
+→ [t-fractal](https://github.com/xcontcom/t-fractal)
 
 ---
 
