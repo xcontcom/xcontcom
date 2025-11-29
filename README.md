@@ -7,6 +7,18 @@ I build experimental systems where complexity emerges from simple rules — usin
 
 ## 🧬 Core Projects
 
+### 🔷 The Billiard Fractals
+
+<img src="https://github.com/xcontcom/billiard-fractals/blob/main/docs/images/0.png" alt="The Billiard Fractals preview" width="400" />
+
+Exploring fractals generated from symbolic billiards, irrational discretization, and curved surface slicing. A bridge between number theory and emergent geometry.
+
+→ [billiard-fractals](https://github.com/xcontcom/billiard-fractals)
+
+→ [full article](https://xcontcom.github.io/billiard-fractals/docs/article.html)
+
+---
+
 ### 🔁 Evolving Cellular Automata — Rule-Based Evolution
 
 <img src="https://github.com/xcontcom/evolving-cellular-automata/blob/main/docs/images/19.gif" alt="Evolving Cellular Automata preview" />
@@ -28,18 +40,6 @@ The goal: observe what kinds of behavior or structures can *emerge* from a Turin
 It’s a search for dynamics, complexity, or stability — without touching the rules themselves.
 
 → [initial-state-evolution](https://github.com/xcontcom/initial-state-evolution)
-
----
-
-## 🔷 The Billiard Fractals
-
-<img src="https://github.com/xcontcom/billiard-fractals/blob/main/docs/images/0.png" alt="The Billiard Fractals preview" width="400" />
-
-Exploring fractals generated from symbolic billiards, irrational discretization, and curved surface slicing. A bridge between number theory and emergent geometry.
-
-→ [billiard-fractals](https://github.com/xcontcom/billiard-fractals)
-
-→ [full article](https://github.com/xcontcom/billiard-fractals/blob/main/docs/article.md)
 
 ---
 
