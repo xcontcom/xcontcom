@@ -84,7 +84,7 @@ though it diverges from convolution by applying no local aggregation — only re
 
 → [perfect-shuffle](https://github.com/xcontcom/perfect-shuffle)
 
-→ [full article](https://github.com/xcontcom/perfect-shuffle/blob/main/docs/article.md)
+→ [full article](https://xcontcom.github.io/perfect-shuffle/docs/article.html)
 
 ---
 
