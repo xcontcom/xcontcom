@@ -27,7 +27,7 @@ Genetic algorithm that evolves cellular automaton rules to maximize specific beh
 
 → [evolving-cellular-automata](https://github.com/xcontcom/evolving-cellular-automata)
 
-→ [full article](https://github.com/xcontcom/evolving-cellular-automata/blob/main/docs/article.md)
+→ [full article](https://xcontcom.github.io/evolving-cellular-automata/docs/article.html)
 
 ---
 
