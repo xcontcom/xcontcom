@@ -52,7 +52,7 @@ Focus: visual symmetry, self-similarity, and how simple logic creates structured
 
 → [fractals](https://github.com/xcontcom/fractals)
 
-→ [full article](https://github.com/xcontcom/fractals/blob/master/docs/article.md)
+→ [full article](https://xcontcom.github.io/fractals/docs/article.html)
 
 ---
 
